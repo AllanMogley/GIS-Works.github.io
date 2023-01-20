@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95d9c6bc-04fb-44ba-bf5e-c246e809751c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Spatial Analyses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OSM Works/Codes/Extract OSM Features.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OSM Works/Codes/cache/2144358ac565868aebddb144637c41ff90813d58.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OSM Works/Codes/cache/8578cc733ff0bf2e567bcc8e10fcc354a5b3de1a.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OSM Works/Codes/cache/c17ad8d303536745d4004e8b587ba39427593e08.json" afterDir="false" />
+    <list default="true" id="95d9c6bc-04fb-44ba-bf5e-c246e809751c" name="Changes" comment="Download/model a street network for some city then visualize it">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OSM Works/Codes/Extract OSM Features.py" beforeDir="false" afterPath="$PROJECT_DIR$/OSM Works/Codes/Extract OSM Features.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +54,14 @@
       <option name="presentableId" value="Default" />
       <updated>1674156432446</updated>
     </task>
+    <task id="LOCAL-00001" summary="Download/model a street network for some city then visualize it">
+      <created>1674246252831</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674246252832</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -80,5 +80,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Download/model a street network for some city then visualize it" />
+    <option name="LAST_COMMIT_MESSAGE" value="Download/model a street network for some city then visualize it" />
   </component>
 </project>
