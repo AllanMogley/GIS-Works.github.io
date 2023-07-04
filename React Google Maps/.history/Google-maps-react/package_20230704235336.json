@@ -1,14 +1,12 @@
 {
   "name": "google-maps-next",
   "private": true,
-  "homepage": "http://AllanMogley.github.io/GIS-Works",
+  "homepage": "http://{Allan}.github.io/{repo-name}",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "lint": "next lint"
   },
   "dependencies": {
     "@reach/combobox": "^0.16.5",
