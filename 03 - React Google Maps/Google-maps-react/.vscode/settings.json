@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b7f5b08c-1f6b-4164-ae14-e891b43f2a52/resourceGroups/01-WebMap/providers/Microsoft.Web/sites/GooglePlaces",
+    "appService.deploySubpath": "."
+}
