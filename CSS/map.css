@@ -1,0 +1,56 @@
+body {
+    padding: 0;
+    margin: 0;
+    }
+    html, body, #map {
+    height: 100%;
+    width: 100%;
+    }
+ 
+    .custom-popup .leaflet-popup-content-wrapper {
+        background:mediumseagreen;
+        color:#fff;
+        font-size:16px;
+        line-height:24px;
+        border-radius: 25px;
+        text-align: center;
+        }
+      .custom-popup .leaflet-popup-content-wrapper a {
+          color:rgba(255,255,255,0.1);
+        }
+      .custom-popup .leaflet-popup-tip-container {
+        width:30px;
+        height:15px;
+        }
+      .custom-popup .leaflet-popup-tip {
+          background: mediumseagreen;
+          border: none;
+          box-shadow: none;
+        }
+      .custom-popup a{
+        margin-bottom: 0px;
+        text-decoration: none;
+      }
+/*Set the styling for the legend*/
+        .legend {
+          padding: 6px 8px;
+          background-color: rgb(248, 254, 250);
+          box-shadow: 0 0 15px rgba(0,0,0,0.2);
+          border-radius: 5px;
+      }
+      .legend div {
+          width: 20px;
+          height: 35px;
+          float: left;
+          margin-right: 8px;
+          opacity: 0.7;
+      }
+      div.legend.leaflet-control br {
+          clear: both;
+      }
+
+
+
+
+
+   
